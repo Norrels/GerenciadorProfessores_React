@@ -1,4 +1,5 @@
-![Twitter post - 1 (2)](https://user-images.githubusercontent.com/94193637/188919857-c649bb89-0f08-4452-9488-7318d119724d.png)
+![Twitter post - 1 (3)](https://user-images.githubusercontent.com/94193637/188975450-30c572be-82c3-4ce0-8f51-d792302770ed.png)
+
 
 WEB site desenvolvido durante as minhas aulas no senai "Ricardo Lerner", a ideia principal era desenvolver uma aplicação que informasse 
 a sala em que determinado professor está
