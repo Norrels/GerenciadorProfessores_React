@@ -1,4 +1,4 @@
-import logo from '../../assets/logo.svg'
+import logo from '../../assets/Logo.svg'
 import { Moon, SunDim, SunHorizon } from 'phosphor-react'
 import { format, getHours } from 'date-fns'
 import ptBR from 'date-fns/locale/pt-BR'
