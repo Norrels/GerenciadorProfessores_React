@@ -1,4 +1,4 @@
-![Twitter post - 1 (3)](https://user-images.githubusercontent.com/94193637/188975450-30c572be-82c3-4ce0-8f51-d792302770ed.png)
+![Twitter post - 1 (5)](https://user-images.githubusercontent.com/94193637/189236472-aaf73f55-e58a-49cc-bf8b-838ef6b9a1a4.png)
 
 
 WEB site desenvolvido durante as minhas aulas no senai "Ricardo Lerner", a ideia principal era desenvolver uma aplicação que informasse 
