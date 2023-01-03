@@ -6,7 +6,6 @@ a sala em que determinado professor está
 
 ### Conceitos desenvolvidos
 - Styled-Components
-- React-Router-Dom
 - Method reduce
 
 ### Acesse o arquivo :sweat_smile:
