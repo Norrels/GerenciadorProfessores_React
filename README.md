@@ -6,6 +6,7 @@ a sala em que determinado professor está
 
 ### Conceitos desenvolvidos
 - Styled-Components
+- Lib DateFns
 - Method reduce
 
 ### Acesse o arquivo :sweat_smile:
